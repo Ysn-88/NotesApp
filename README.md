@@ -1,5 +1,7 @@
 # NoresApp
 
+![Notes_Gif](https://github.com/Ysn-88/NotesApp/assets/71253265/a75c734a-08ae-4873-b7bf-e7d4cd976c75)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
